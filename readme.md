@@ -1,3 +1,3 @@
 #Demo
 
-Something os cooking :) !
+Something is cooking :) !
